@@ -29,7 +29,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Autor
-Lucas Melo de Mello (follow me on [LinkedIn] (https://l1nk.dev/J5N7h))
+Lucas Melo de Mello (follow me on [LinkedIn] (https://www.linkedin.com/in/lucas-mello-l102030/))
 
 ## License
 ```
